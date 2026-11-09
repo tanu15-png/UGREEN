@@ -1,0 +1,38 @@
+{
+  "checkFormatVersion": "2.0.0",
+  "status": "static-pass",
+  "target": {
+    "skillName": "promise-check"
+  },
+  "catalog": {
+    "checkedVersion": "2.0.0"
+  },
+  "files": [
+    {
+      "path": "references/disclosures.md",
+      "sha256": "aa5d8979d345609d10a65a14344c47fd65354b03f6c56f7835e66f7d63ddcede"
+    },
+    {
+      "path": "references/report-format.md",
+      "sha256": "ac70302b2a1e33843e83c1ddbd7d4ce0bc7d69f135b249a0a33761a8f51df5fc"
+    },
+    {
+      "path": "references/review-rules.md",
+      "sha256": "783a20177c397564ae5dbe3117a173c6f46b22961da9b004c1bd186be34913e8"
+    },
+    {
+      "path": "references/validation-cases.md",
+      "sha256": "c3990a8d2708e5ee6b066c1f0fb2a5c447b6a8bc37115571f59b0ecd20977129"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "0c6d1bb4631f16013b9e9b62f93a1616a4221680bf4f1208bad3234c744d1815"
+    }
+  ],
+  "summary": {
+    "errors": 0,
+    "warnings": 0,
+    "info": 0
+  },
+  "diagnostics": []
+}

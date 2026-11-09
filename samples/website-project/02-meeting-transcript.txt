@@ -1,0 +1,9 @@
+FICTIONAL USER-SUPPLIED TRANSCRIPT - NOT AUDIO TRANSCRIPTION
+Source label: M1. Project meeting dated 2026-11-05.
+Speaker names are explicitly identified for this fictional test.
+Paragraph 1 - Theo, supplier lead: I propose changing the contact-form deadline from November 12 to November 15, 2026. The email configuration needs more work.
+Paragraph 2 - Mira, client project lead: I approve the contact-form deadline change to November 15, 2026. The confirmation email is still required.
+Paragraph 3 - Theo: I also propose moving the administrator guide from November 13 to November 18, 2026.
+Paragraph 4 - Mira: I have not approved that guide change. Please send the explanation first.
+Paragraph 5 - Theo: We could add a customer analytics dashboard as extra scope.
+Paragraph 6 - Mira: That is only a suggestion. I am not approving extra scope in this meeting.

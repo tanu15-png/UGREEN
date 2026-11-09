@@ -1,0 +1,11 @@
+FICTIONAL TEST DATA - NOT A REAL CONTRACT
+Source label: A1. Agreement dated 2026-11-01.
+Project: Orchard Website. Client: Orchard Studio. Supplier: Cedar Web.
+Section 1 - Approval authority
+Only the client project lead, Mira, may approve scope or deadline changes. Supplier lead Theo may propose changes but cannot approve them on behalf of the client. Explicit approval must be recorded.
+Section 2 - Homepage
+Cedar Web will deliver a responsive homepage by 2026-11-10. Acceptance criteria: desktop and mobile layouts supplied to the client.
+Section 3 - Contact form
+Cedar Web will deliver a contact form by 2026-11-12. Acceptance criteria: form submits successfully and a confirmation email is received.
+Section 4 - Administrator guide
+Cedar Web will deliver a PDF administrator guide by 2026-11-13. Acceptance criteria: guide explains editing text and images.

@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-09",
+  "official_checker_status": "static-pass",
+  "official_errors": 0,
+  "official_warnings": 0,
+  "proposal_response_words": 352,
+  "proposal_words_including_question_headings": 395,
+  "pdf_pages": 1,
+  "pdf_bytes": 4540,
+  "zip_bytes": 10056,
+  "uncompressed_bytes": 21862,
+  "package_file_count": 5,
+  "zip_sha256": "be1b8c654431682b4555e0cb40146e4c33a09cf0eb2b14e2920375ab3345bde0",
+  "pdf_sha256": "5f46299f0bcbc0405c48f39a29613c9f8c41f1d48aa58bae15f86412ca4155ae",
+  "package_files": [
+    "promise-check/references/disclosures.md",
+    "promise-check/references/report-format.md",
+    "promise-check/references/review-rules.md",
+    "promise-check/references/validation-cases.md",
+    "promise-check/SKILL.md"
+  ],
+  "runtime_tests_executed": false,
+  "ai_accuracy_measured": false,
+  "reportlab_version": "4.4.9"
+}

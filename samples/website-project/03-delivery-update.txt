@@ -1,0 +1,8 @@
+FICTIONAL TEST DATA
+Source label: D1. Supplier delivery update dated 2026-11-09.
+Section 1 - Homepage
+The responsive homepage is complete. Desktop and mobile layouts have been supplied for client review. We have not recorded client acceptance yet.
+Section 2 - Contact form
+The form interface and submission endpoint are implemented. The confirmation-email test is failing. Work is continuing toward the approved November 15 date.
+Section 3 - Current scope
+No analytics dashboard has been delivered or accepted as approved scope.
